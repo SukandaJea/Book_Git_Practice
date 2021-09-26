@@ -2,7 +2,8 @@
 
 page 2 of chapter 1
 
-our second file
+this our second file
 
- now we have git enabled
+now we have git enabled
 
+change something in this page
